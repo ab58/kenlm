@@ -1,0 +1,12 @@
+Hi, can anyone tell me how to actually generate an ARPA file from a training file? There are no clear instructions on exactly how to do this.
+That "bin/lmplz" thing doesn't work at all. I tried typing that into my iPython shell and it didn't work, I also tried that in my Cygwin and
+it didn't work. I know how to use the example.py file, but that file calls on a pre-made ARPA file. What I need is to make an ARPA file from
+my own text file I'm using for training. There are no clear instructions on how to do this and it's very frustrating. It also says "after 
+compiling with bjam, run this command".I have no idea what "bjam" is and you don't explain this at all. Am I supposed to look up what these things 
+are and learn how touse them, and then come back to this to try to use it? That could take several hours or days and I don't have that kind
+of time. Also most of what's in the README is gibberish that I can't understand, and very little is explained about the technical terms you 
+use in the README. I read them over and over and nothing makes sense to me. I managed to get the example script working but it only works
+with the one ARPA file you provide which is useless becuase I need a way to generate my own ARPA. What is the way to do this, and is the 
+explanation for how to generate the ARPA contained in the README? If it is, please point me to this. If it's the gibberish language that 
+explains it, you need to explain exactly what all those terms mean and contextualize them, because I've gone through the README several 
+times and very little of it makes sense to me.
